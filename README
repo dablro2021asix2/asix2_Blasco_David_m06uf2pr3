@@ -1,0 +1,11 @@
+Programa: ctrlsrv.sh
+Permisos: chmod 777 ctrlsrv.sh
+Execusió: ./ctrlsrv.sh
+
+Programa: backup.sh
+Permisos: chmod 777 backup.sh
+Execusió: ./backup.sh
+
+Programa: dns.sh
+Permisos: chmod 777 dns.sh
+Execusió: ./dns.sh
